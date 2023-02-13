@@ -19,7 +19,7 @@ class MainActivity2 : AppCompatActivity() {
     override fun onResume(){
 
         super.onResume()
-        Log.e("main activity", "this activity has been resumed")
+        Log.e("main activity", "This activity has been resumed")
 
     }
 
